@@ -28,3 +28,10 @@ The GUI should incorporate functionality that allows the user to:
     • Cancel a selected booking to remove from the list of bookings. 
     • Create a new tourist. 
     • Create a new tour package.
+   
+An interface to add tour agents that will subsequently  be selected when booking a tour.
+![alt text](https://github.com/pocharis/tourapp/blob/master/add%20tourapp%20interface.PNG?raw=true)
+
+
+MAIN APP GUI for Creating and Cancelling bookings, save the details of a tourist and also to select a tour package for a tourist
+![alt text](https://github.com/pocharis/tourapp/blob/master/main%20app%20interface.PNG?raw=true)
